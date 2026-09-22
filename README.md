@@ -308,13 +308,7 @@ curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.
 ### 脚本3：CF-优选官方IP脚本（带测速），苹果安卓手机平板专用：
 ```
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
-```
--------------------------------------------------------------
-
-### 感谢支持！微信打赏甬哥侃侃侃ygkkk
-![41440820a366deeb8109db5610313a1](https://github.com/user-attachments/assets/7dbaa3b1-cce4-415a-b46e-049531cf4d0d)
-
--------------------------------------------------------------
+``
 
 ### 感谢你右上角的star🌟
 [![Stargazers over time](https://starchart.cc/yonggekkk/Cloudflare-workers-pages-vless.svg)](https://starchart.cc/yonggekkk/Cloudflare-workers-pages-vless)
